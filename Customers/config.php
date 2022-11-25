@@ -1,8 +1,8 @@
 <?php
 
-	$DB_HOST = '127.0.0.1';
-	$DB_USER = 'root';
-	$DB_PASS = '';
+	$DB_HOST = 'stores.mysql.database.azure.com';
+	$DB_USER = 'Alexa';
+	$DB_PASS = 'Celio3009';
 	$DB_NAME = 'store';
 	
 	try{

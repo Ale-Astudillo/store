@@ -2,7 +2,7 @@
 
 
 
-$dbcon=mysqli_connect("127.0.0.1","root","");
+$dbcon=mysqli_connect("stores.mysql.database.azure.com","Alexa","Celio3009");
 
 mysqli_select_db($dbcon,"store");
 
